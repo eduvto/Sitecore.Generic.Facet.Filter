@@ -1,0 +1,39 @@
+{
+  "namespace": "GenericFacetFilter.Master",
+  "description": "Serializes the master db items for the GenericFacetFilter Module",
+  "items": {
+    "includes": [
+      {
+        "allowedPushOperations": "CreateAndUpdate",
+        "database": "master",
+        "name": "Templates.Feature.GenericFacetFilter",
+        "path": "/sitecore/templates/Feature/GenericFacetFilter",
+        "scope": "itemAndDescendants"
+      },
+      {
+        "allowedPushOperations": "CreateAndUpdate",
+        "database": "master",
+        "name": "System.Settings.Rules.GenericFacetFilterPersonalize",
+        "path": "/sitecore/system/Settings/Rules/Definitions/Elements/Generic Facet Filter Personalize",
+        "scope": "itemAndDescendants",
+        "maxRelativePathLength":50
+      },
+      {
+        "allowedPushOperations": "CreateAndUpdate",
+        "database": "master",
+        "name": "System.Settings.Rules.GenericFacetFilterSegmentation.SearchQuery",
+        "path": "/sitecore/system/Settings/Rules/Definitions/Elements/Generic Facet Filter Segmentation - Search Query",
+        "scope": "itemAndDescendants",
+        "maxRelativePathLength":50
+      },
+      {
+        "allowedPushOperations": "CreateAndUpdate",
+        "database": "master",
+        "name": "System.Settings.Rules.GenericFacetFilterSegmentation.Condition",
+        "path": "/sitecore/system/Settings/Rules/Definitions/Elements/Generic Facet Filter Segmentation - Condition",
+        "scope": "itemAndDescendants",
+        "maxRelativePathLength":50
+      }
+    ]
+  }
+}

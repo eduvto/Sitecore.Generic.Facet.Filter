@@ -1,0 +1,35 @@
+﻿---
+ID: "4833b21b-4fc5-41df-8034-6d05c3c0ebe7"
+Parent: "22e912d9-08e7-48c8-98d0-af01953ccb13"
+Template: "6314b425-cbcd-4f8f-bdfb-cce7a95ff943"
+Path: /sitecore/system/Settings/Rules/Definitions/Elements/Generic Facet Filter Personalize/WhereContactFacetPropCompDatetime/Facets/Personal/LastModified
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Last Modified
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240823T031811Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fddf77ef-c617-48c4-a82f-4f0aa7fc67e2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240823T032158Z

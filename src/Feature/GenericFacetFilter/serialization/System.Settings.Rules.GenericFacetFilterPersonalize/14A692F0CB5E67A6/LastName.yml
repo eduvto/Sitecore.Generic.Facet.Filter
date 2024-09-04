@@ -1,0 +1,27 @@
+﻿---
+ID: "62ba4d82-170a-4f03-84fb-81c79c5ccfd8"
+Parent: "c138872d-1368-4b99-bd44-f2356e40cf83"
+Template: "6314b425-cbcd-4f8f-bdfb-cce7a95ff943"
+Path: /sitecore/system/Settings/Rules/Definitions/Elements/Generic Facet Filter Personalize/WhereContactFacetPropCompText/Facets/Personal/LastName
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Last Name
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240115T135936Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f4995fb5-0c62-4aed-bcd7-e5bf785ed7a8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240823T032208Z

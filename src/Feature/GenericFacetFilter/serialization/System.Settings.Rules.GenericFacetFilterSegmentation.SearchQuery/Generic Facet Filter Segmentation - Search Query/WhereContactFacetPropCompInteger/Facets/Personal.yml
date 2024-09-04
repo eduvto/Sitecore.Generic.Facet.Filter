@@ -1,0 +1,30 @@
+﻿---
+ID: "4028aef1-7680-4f64-8bf5-d0d5447cc613"
+Parent: "f56b9ea1-e85f-4c07-9b1e-50c31a665990"
+Template: "2c4f3155-acc5-4b69-b022-8044061f1a28"
+Path: "/sitecore/system/Settings/Rules/Definitions/Elements/Generic Facet Filter Segmentation - Search Query/WhereContactFacetPropCompInteger/Facets/Personal"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Personal Information
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240115T135723Z
+    - ID: "8b14bd75-981d-4398-8cab-0a8976250ff4"
+      Hint: Namespace
+      Value: Sitecore.XConnect.Collection.Model.PersonalInformation, Sitecore.XConnect.Collection.Model
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9325f791-6ff1-4694-a060-b1eec85eff07"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240903T033338Z

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <Sitecore>
+    <XConnect>
+      <Services>
+        <DescriptorLocator>
+          <Options>
+            <PredicateDescriptors>
+              <GenericFacetStringRule>
+                <id>{8E14E28B-F0D5-4A69-93F3-326F720FA91F}</id>
+                <type>Etonon.Feature.GenericFacetFilter.Segmentation.Condition.GenericFacetStringRule, Etonon.Feature.GenericFacetFilter</type>
+              </GenericFacetStringRule>
+              <GenericFacetIntegerRule>
+                <id>{2BA2B636-CC6F-437E-9FD5-EE1C051C25D6}</id>
+                <type>Etonon.Feature.GenericFacetFilter.Segmentation.Condition.GenericFacetIntegerRule, Etonon.Feature.GenericFacetFilter</type>
+              </GenericFacetIntegerRule>
+              <GenericFacetDateTimeRule>
+                <id>{2E323A3D-E1D3-4A92-9E35-56998FE0B3CC}</id>
+                <type>Etonon.Feature.GenericFacetFilter.Segmentation.Condition.GenericFacetDateTimeRule, Etonon.Feature.GenericFacetFilter</type>
+              </GenericFacetDateTimeRule>
+            </PredicateDescriptors>
+          </Options>
+        </DescriptorLocator>
+      </Services>
+    </XConnect>
+  </Sitecore>
+</Settings>

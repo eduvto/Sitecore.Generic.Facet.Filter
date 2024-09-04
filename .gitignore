@@ -1,0 +1,35 @@
+﻿[Oo]bj/
+src/**/[Bb]in/
+specs/**/[Bb]in/
+.nuget/
+Deploy/
+_ReSharper.*
+packages/
+artifacts/
+*.user
+*.cache
+*.suo
+*.userprefs
+*DS_Store
+*.sln.ide
+.sonar
+vars.user.cmd
+.vs/
+/target
+/node_modules
+temp/
+*.ncrunchproject
+*.ncrunchsolution
+.vscode
+nCrunchTemp*.*
+optimized-min.yml
+$tf/
+
+# may contain OAuth secrets, do not commit
+.sitecore/user.json
+
+# NuGet cache for Sitecore CLI
+.sitecore/package-cache/
+
+# Ephemeral index caches used by serialization, do not commit
+.scindex

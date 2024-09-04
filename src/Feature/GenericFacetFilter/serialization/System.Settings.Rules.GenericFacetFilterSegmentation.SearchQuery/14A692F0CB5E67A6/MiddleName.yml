@@ -1,0 +1,35 @@
+﻿---
+ID: "a57b5542-1ac3-4144-8f96-30cf307efe0e"
+Parent: "ed86b129-6123-4607-829a-a4cd4fa1a9d7"
+Template: "6314b425-cbcd-4f8f-bdfb-cce7a95ff943"
+Path: "/sitecore/system/Settings/Rules/Definitions/Elements/Generic Facet Filter Segmentation - Search Query/WhereContactFacetPropCompText/Facets/Personal/MiddleName"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Middle Name - PII Sensitive"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240823T031831Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "200061bc-92f4-4a58-ba6b-c3ad80092016"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240830T200858Z

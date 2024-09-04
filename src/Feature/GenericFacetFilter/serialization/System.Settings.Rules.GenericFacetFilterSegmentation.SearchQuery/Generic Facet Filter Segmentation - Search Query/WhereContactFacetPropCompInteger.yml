@@ -1,0 +1,41 @@
+﻿---
+ID: "8ab00294-56b7-4285-ad16-fa0bb5631f26"
+Parent: "d78de3dc-7986-48bb-9eb1-3bbaa83264e4"
+Template: "f0d16eee-3a05-4e43-a082-795a32b873c0"
+Path: "/sitecore/system/Settings/Rules/Definitions/Elements/Generic Facet Filter Segmentation - Search Query/WhereContactFacetPropCompInteger"
+SharedFields:
+- ID: "ab51c8b2-f0e1-4471-9aae-cc080d774923"
+  Hint: Type
+  Value: Etonon.Feature.GenericFacetFilter.Segmentation.SearchQuery.GenericFacetIntegerRule, Etonon.Feature.GenericFacetFilter
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: where the contact facet property compares to integer value
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240108T201357Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\fmartins019
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "47a68d87-0852-4787-b732-337bae54ecd1"
+    - ID: "af321234-4eb9-4ef5-9197-65903351939c"
+      Hint: Text
+      Value: "where the Contact's [FacetProperty,Tree,root={F56B9EA1-E85F-4C07-9B1E-50C31A665990}&selection={6314B425-CBCD-4F8F-BDFB-CCE7A95FF943},facet property] [Comparison,Tree,root=/sitecore/system/Settings/Rules/Definitions/XConnect - Numeric Operators&resulttype=name,compares to] [FacetValue,Integer,,integer]"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240904T024657Z
