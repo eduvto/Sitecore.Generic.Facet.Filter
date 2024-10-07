@@ -64,7 +64,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Config\Include\Feature\Etonon.Feature.GenericFacetFilter.config" />
-    <Content Include="_xConnect_Config\AutomationEngine\Segmentation\sc.Etonon.Feature.GenericFacetFilter.Predicates.xml" />
+    <None Include="_xConnect_Config\AutomationEngine\Segmentation\sc.Etonon.Feature.GenericFacetFilter.Predicates.xml" />
     <None Include="Properties\PublishProfiles\Local.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
