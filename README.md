@@ -26,7 +26,7 @@ Install the package by Installation Wizard and Publish the items under the paths
 
 For Marketing Automation Engine deployment:
 - Copy Etonon.Feature.GenericFacetFilter.dll and .pdb files into the Marketing Automation service folder
-- Copy [sc.Etonon.Feature.GenericFacetFilter.Predicates.xml](.\src\Feature\GenericFacetFilter\code\_xConnect_Config\AutomationEngine\Segmentation\sc.Etonon.Feature.GenericFacetFilter.Predicates.xml) into Marketing Automation service config folder
+- Copy [sc.Etonon.Feature.GenericFacetFilter.Predicates.xml](./src/Feature/GenericFacetFilter/code/_xConnect_Config/AutomationEngine/Segmentation/sc.Etonon.Feature.GenericFacetFilter.Predicates.xml) into Marketing Automation service config folder
 
 See [here](https://doc.sitecore.com/xp/en/developers/latest/sitecore-experience-platform/create-a-custom-condition-and-segmentation-query.html#configure-the-marketing-automation-engine) in case you need more details.
 
