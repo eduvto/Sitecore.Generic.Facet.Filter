@@ -5,13 +5,13 @@ Summary
 --------------
 Adds custom rules for Personalization and Segmentation conditions
 
-- Personalization Rules
+- Personalization Rules<br />
 ![alt text](./screenshots/Personalization-Rules.png "Personalize Rules Conditions")
 
-- Segmentation Rules - Segment List Conditions
+- Segmentation Rules - Segment List Conditions<br />
 ![alt text](./screenshots/Segmentation-Rules---Search-Query.png "Segmentation Rules - Search Query - Segment List Conditions")
 
-- Segmentation Rules - Marketing Automation Engine Conditions
+- Segmentation Rules - Marketing Automation Engine Conditions<br />
 ![alt text](./screenshots/Segmentation-Rules---Condition.png "Segmentation Rules - Search Query - Marketing Automation Engine Conditions")
 
 Installation
@@ -20,7 +20,7 @@ Download the package below for your respective Sitecore version
 
 - [Generic Facet Filters](./releases/Etonon.Feature.GenericFacetFilter-1.0.zip) (Tested on Sitecore 9.3 - 10.4)
 
-Publish the items under the paths:
+Install the package by Installation Wizard and Publish the items under the paths:
 - /sitecore/templates/Feature/GenericFacetFilter
 - /sitecore/system/Settings/Rules/Definitions/Elements/Generic Facet Filter Personalize
 
@@ -44,10 +44,10 @@ To add more facets:
 - Then right-click on the Facets folder under it, select Insert > Facet, then insert its Facet Properties.
 ![alt text](./screenshots/Adding-New-Facets.png "Adding new facets")
 
-For Personalize Conditions it needs an extra step to allow Sitecore to get the facet properties from the analytics tracker, to do that configure it on the config file (\App_Config\Include\Feature\Etonon.Feature.GenericFacetFilter.config).
+For ***Personalize Conditions*** it needs an extra step to allow Sitecore to get the facet properties from the analytics tracker, to do that configure it on the config file (\App_Config\Include\Feature\Etonon.Feature.GenericFacetFilter.config).<br />
 See [here](https://doc.sitecore.com/xp/en/developers/latest/sitecore-experience-platform/load-facets-into-session.html) in case you need more details.
 
 About
 --------------
-Eduardo Tonon - Sitecore Developer since 2015
+Eduardo Tonon - Sitecore Developer since 2015<br />
 LinkedIn: [Eduardo Tonon](https://www.linkedin.com/in/eduardotonon/)
