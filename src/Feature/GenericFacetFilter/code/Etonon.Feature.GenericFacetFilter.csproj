@@ -48,6 +48,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Constants.cs" />
+    <Compile Include="Helper\CustomStringOperationType.cs" />
+    <Compile Include="Helper\CustomStringOperationTypeExtensions.cs" />
     <Compile Include="Personalize\Base\GenericFacetRuleBase.cs" />
     <Compile Include="Personalize\GenericFacetIntegerRule.cs" />
     <Compile Include="Personalize\GenericFacetDateTimeRule.cs" />

@@ -33,6 +33,14 @@
         "path": "/sitecore/system/Settings/Rules/Definitions/Elements/Generic Facet Filter Segmentation - Condition",
         "scope": "itemAndDescendants",
         "maxRelativePathLength":50
+      },
+      {
+        "allowedPushOperations": "CreateAndUpdate",
+        "database": "master",
+        "name": "System.Settings.Rules.XConnectCustomStringOperators",
+        "path": "/sitecore/system/Settings/Rules/Definitions/XConnect - Custom String Operators",
+        "scope": "itemAndDescendants",
+        "maxRelativePathLength":50
       }
     ]
   }
