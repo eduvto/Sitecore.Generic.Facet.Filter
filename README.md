@@ -50,4 +50,5 @@ See [here](https://doc.sitecore.com/xp/en/developers/latest/sitecore-experience-
 About
 --------------
 Eduardo Tonon - Sitecore Developer since 2015<br />
-LinkedIn: [Eduardo Tonon](https://www.linkedin.com/in/eduardotonon/)
+LinkedIn: [Eduardo Tonon](https://www.linkedin.com/in/eduardotonon)
+Blog: [eduardotonon.com](https://eduardotonon.com)
